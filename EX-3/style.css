@@ -1,0 +1,23 @@
+/* TODO */
+body{
+    display: flex;
+    justify-content: center;
+    margin-top:100px ;
+}
+button{
+    background-color: #fa83cd;
+    width: 200px;
+    height: 80px;
+    color: white;
+    font-size: medium;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #d872b3;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #ad578d;
+    border-color: #6e3659;
+    
+}
