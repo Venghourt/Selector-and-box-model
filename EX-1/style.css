@@ -1,0 +1,49 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+    
+}
+.container div{
+    margin-bottom: 30px;
+}
+.p1{
+    background-color: white;
+    margin: 20px 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.p1 button{
+    background-color: #008080;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.p2{
+    background-color: white;
+    margin: 20px 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.p2 button{
+    background-color: #FFA500;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.p3{
+    background-color: white;
+    margin: 20px 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.p3 button{
+    background-color: #800080;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
